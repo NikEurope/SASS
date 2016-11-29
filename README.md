@@ -1,4 +1,8 @@
 
-# SASS
+# SASS DOC
 
-SASS DOC
+
+Sass info  http://www.sass-lang.com/guide
+
+
+
