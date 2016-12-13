@@ -25,12 +25,14 @@ sudo yum install ruby ruby-devel -y
 Compass:
 
 gem install compass
+
 gem install bootstrap-sass
 
 
 Compilation: dans le dossier du thème lancer la compilation
 
 cd themes/cnas
+
 compass compile
 
 
