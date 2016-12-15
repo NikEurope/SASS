@@ -47,3 +47,11 @@ compass clean && compass compile
 
 
 
+## css 2 sass converter :
+
+http://css2sass.herokuapp.com/
+
+http://sebastianpontow.de/css2compass/
+
+
+
