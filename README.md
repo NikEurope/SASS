@@ -9,7 +9,6 @@ https://la-cascade.io/se-lancer-dans-sass/
 Install Sass http://www.sass-lang.com/install
 
 
-
 Ex SASS -> CSS : https://github.com/NikEurope/SASS/blob/master/ex.md
 
 
@@ -45,6 +44,7 @@ Pour forcer la suppression des fichiers css et la recompilation des fichiers scs
 
 cd themes/cnas
 compass clean && compass compile
+
 
 
 
