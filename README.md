@@ -30,13 +30,11 @@ gem install compass
 gem install bootstrap-sass
 
 
-
 Compilation: dans le dossier du thème lancer la compilation
 
 cd themes/MySite
 
 compass compile
-
 
 
 Pour forcer la suppression des fichiers css et la recompilation des fichiers scss :
@@ -74,6 +72,7 @@ compass clean && compass compile - nettoyer et compiler le SASS avec CSS
 http://css2sass.herokuapp.com/
 
 http://sebastianpontow.de/css2compass/
+
 
 
 
