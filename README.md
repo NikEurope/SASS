@@ -14,14 +14,13 @@ Ex SASS -> CSS : https://github.com/NikEurope/SASS/blob/master/ex.md
 
 
 ##Intégration graphique avec Sass
-Installation
 
+Installation
 
 
 Ruby:
 
 sudo yum install ruby ruby-devel -y
-
 
 
 Compass:
@@ -34,7 +33,7 @@ gem install bootstrap-sass
 
 Compilation: dans le dossier du thème lancer la compilation
 
-cd themes/cnas
+cd themes/MySite
 
 compass compile
 
