@@ -1,5 +1,25 @@
 
 
-test
+Go to Project:
+Installation
+Ruby
+sudo yum install ruby ruby-devel -y
+
+
+Compass
+gem install compass
+gem install bootstrap-sass
+
+
+Go to Themes > MyTheme:
+Compilation
+dans le dossier du thème lancer la compilation
+cd themes/cnas
+compass compile
+
+OU 
+
+compass clean && compass compile - nettoyer et compiler le SASS avec CSS
+
 
 
