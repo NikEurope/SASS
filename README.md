@@ -47,7 +47,7 @@ compass clean && compass compile
 
 # SASS DRUPAL :
 
-Go to Themes > MyTheme:
+Go to Project:
 Installation
 Ruby
 sudo yum install ruby ruby-devel -y
@@ -58,6 +58,7 @@ gem install compass
 gem install bootstrap-sass
 
 
+Go to Themes > MyTheme:
 Compilation
 dans le dossier du thème lancer la compilation
 cd themes/cnas
@@ -66,12 +67,6 @@ compass compile
 OU 
 
 compass clean && compass compile - nettoyer et compiler le SASS avec CSS
-
-
-Pour forcer la suppression des fichiers css et la recompilation des fichiers scss :
-cd themes/MyTheme
-compass clean && compass compile
-
 
 
 ## css 2 sass converter :
